@@ -13,15 +13,23 @@ body {
   
 }
 
-
-/* Header & Footer 
-------------------------------------*/
-.header, footer{
-  background: #b1a7a6
-  font-family:
+html{
+  background: #b1a7a6;
+}
   
 }
+/* Header & Footer 
+------------------------------------*/
+header, footer{
+  background: #b1a7a6;
+}
 
+h1, h2, h3{
+font-family: 'Ephesis', cursive;
+}
+p{
+  font-family: 'Ephesis', cursive;
+}
 
 
 /* Work Experience
