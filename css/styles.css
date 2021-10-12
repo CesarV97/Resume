@@ -15,6 +15,9 @@ body {
 
 /* Header & Footer 
 ------------------------------------*/
+header, footer{
+  background: #b1a7a6
+}
 
 
 
