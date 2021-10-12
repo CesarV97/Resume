@@ -10,13 +10,16 @@
 body {
     /*background: lightblue;*/
   background: #e5383b;
+  
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
-header, footer{
+.header, footer{
   background: #b1a7a6
+  font-family:
+  
 }
 
 
