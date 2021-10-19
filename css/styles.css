@@ -69,17 +69,15 @@ p {
   font-size: 100%;
 }
 
-
 /* Header & Footer 
 ------------------------------------*/
-header{
+header {
   background-color: #93e1d8;
   color: #6d676e;
 }
 
-.profile-img{
-  
-  border-radius:50%;
+.profile-img {
+  border-radius: 50%;
   /*
   width: 300px;
   float: left;
@@ -94,7 +92,6 @@ header h1 {
 header h2 {
   margin: 0;
 }
-
 
 footer {
   color: #6d676e;
