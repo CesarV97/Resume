@@ -39,6 +39,8 @@ h1{
 }
 
 h2{
+  margin-top: 0;
+}
   
   
 }
@@ -65,3 +67,8 @@ footer {
     text-align: center;
     background-color: white;
   }
+
+.contact-info a {
+  padding: 10px;
+  display: inline-block;
+}
