@@ -15,12 +15,11 @@ html{
 
 body {
     /*background: lightblue;*/
-  background: #f08080;
-  /*width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 2.5% 2.5% 0;
-  line-height: 1.8;*/
+  background-color: #f08080;
+  color: #6d676e;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 18px;
+  margin: 0;
   
 }
 
@@ -52,16 +51,6 @@ p{
   font-size: 100%
 }
 
-.flowLeft {
-  float: left;
-  margin-right: 20px;
-}
-
-.flowRight {
-  float: right;
-  margin-left: 10px;
-
-
 
 /* Work Experience
 ------------------------------------*/
@@ -71,6 +60,8 @@ p{
 /* Education
 ------------------------------------*/
   
-  footer{
-    background: white;
+footer {
+    color: #6d676e;
+    text-align: center;
+    background-color: white;
   }
