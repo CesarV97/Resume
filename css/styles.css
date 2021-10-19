@@ -22,13 +22,15 @@ html{
   background:#eff7f6;
 }
 
-
+.content-wrap{
+  width: 950px; 
+  margin: 0 auto;
 }
+
+
 /* Header & Footer 
 ------------------------------------*/
-header, footer{
-  background: #b1a7a6;
-}
+
 h1{
   font-size:2.2em
 }
