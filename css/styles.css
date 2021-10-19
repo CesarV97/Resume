@@ -1,72 +1,72 @@
 /* Color Palette
-# - color e5383b
-# - color 2 b1a7a6
-# - color 3
-# - color 4
+# - color 1 #f08080 salmon
+# - color 2 #6d676e grey
+# - color 3  #93e1d8 mint
+# - color 4 fff8f0 cream
 */
 
 /* Global styles 
 ------------------------------------*/
 
-html{
-   box-sizing: border-box;
+html {
+  box-sizing: border-box;
 }
-
 
 body {
-    /*background: lightblue;*/
+  /*background: lightblue;*/
   background-color: #f08080;
   color: #6d676e;
-  font-family: 'Noto Sans Mono', monospace;
+  font-family: "Noto Sans Mono", monospace;
   font-size: 18px;
   margin: 0;
-  
 }
 
-
-.content-wrap{
-  max-width: 950px; 
+.content-wrap {
+  max-width: 950px;
   margin: 0 auto;
   padding: 50px;
+}
+
+/* Header & Footer 
+------------------------------------*/
+
+h1 {
+  font-size: 2.2em;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Noto Sans Mono", monospace;
+}
+p {
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 100%;
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
-
-h1{
-  font-size:2.2em
+header{
+  background-color: #93e1d8;
+  color: #6d676e;
 }
 
-h2{
-  margin-top: 0;
-}
-  
-  
-}
-
-h1, h2, h3, h4{
-font-family: 'Noto Sans Mono', monospace;
-}
-p{
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 100%
+.profile-img{
+  width: 300px;
 }
 
 
-/* Work Experience
-------------------------------------*/
-
-
-
-/* Education
-------------------------------------*/
-  
 footer {
-    color: #6d676e;
-    text-align: center;
-    background-color: white;
-  }
+  color: #6d676e;
+  text-align: center;
+  background-color: #fff8f0;
+}
 
 .contact-info a {
   padding: 10px;
