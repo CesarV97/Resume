@@ -10,15 +10,18 @@
 body {
     /*background: lightblue;*/
   background: #f08080;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2.5% 2.5% 0;
+  line-height: 1.8;
   
 }
 
 html{
   background:#eff7f6;
 }
-img{
-  margin-top:6.3me
-}
+
 
 }
 /* Header & Footer 
@@ -32,9 +35,10 @@ h1{
 
 h2{
   
+  
 }
 
-h1, h2, h3{
+h1, h2, h3, h4{
 font-family: 'Noto Sans Mono', monospace;
 }
 p{
@@ -43,7 +47,7 @@ p{
 
 .flowLeft {
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 
