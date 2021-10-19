@@ -7,24 +7,28 @@
 
 /* Global styles 
 ------------------------------------*/
+
+html{
+   box-sizing: border-box;
+}
+
+
 body {
     /*background: lightblue;*/
   background: #f08080;
-  width: 80%;
+  /*width: 80%;
   margin-right: auto;
   margin-left: auto;
   padding: 2.5% 2.5% 0;
-  line-height: 1.8;
+  line-height: 1.8;*/
   
 }
 
-html{
-  background:#eff7f6;
-}
 
 .content-wrap{
   max-width: 950px; 
   margin: 0 auto;
+  padding: 50px;
 }
 
 
@@ -66,3 +70,7 @@ p{
 
 /* Education
 ------------------------------------*/
+  
+  footer{
+    background: white;
+  }
