@@ -43,13 +43,17 @@ font-family: 'Noto Sans Mono', monospace;
 }
 p{
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 75%
+  font-size: 100%
 }
 
 .flowLeft {
   float: left;
   margin-right: 20px;
 }
+
+.flowRight {
+  float: right;
+  margin-left: 10px;
 
 
 
