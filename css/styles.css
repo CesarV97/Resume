@@ -26,11 +26,9 @@ body {
   margin: 0;
 }
 
-main{
-  background: #f08080; 
-  
+main {
+  background: #f08080;
 }
-
 
 .content-wrap {
   max-width: 950px;
@@ -102,7 +100,6 @@ footer {
   color: #6d676e;
   text-align: center;
   background-color: #fff8f0;
-
 }
 
 .contact-info a {
@@ -110,15 +107,19 @@ footer {
   display: inline-block;
 }
 
- /*
+/*
  -----HW8------
   */
- .display {
+.display {
   text-align: center;
-   
+}
+
 .image-bg {
   background: url(https://cdn.glitch.me/16126212-284d-4b4e-987e-4b2d204936a9%2Fsundaeswap.jpg?v=1635235197037);
-   }
+}
 .alpha-bg {
-  background-color: rgba(233, 218, 228, 0.01);
-   }
+  background-color: rgba(233, 218, 228, 0.65);
+}
+nav{
+  background:#f08080;
+}
