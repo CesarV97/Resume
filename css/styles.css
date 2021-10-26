@@ -20,7 +20,7 @@ html {
 
 body {
   /*background: lightblue;*/
-  background-color: #f08080;
+  background: (rgba(227, 55, 169, 0.32)
   color: #6d676e;
   font-family: "Noto Sans Mono", monospace;
   font-size: 18px;
@@ -109,3 +109,9 @@ footer {
   */
  .display {
   text-align: center;
+   
+.image-bg {
+  background: url(https://cdn.glitch.me/16126212-284d-4b4e-987e-4b2d204936a9%2Fsundaeswap.jpg?v=1635235197037);
+   }
+.alpha-bg {
+  background: rgba()
